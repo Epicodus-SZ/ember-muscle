@@ -17,6 +17,18 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+      // apiKey: 'AIzaSyClEU0LZZhbZG_A5ZpPnvdVlywSLCM0wa8',
+      // authDomain: 'muscle-d6e33.firebaseapp.com',
+      // databaseURL: 'https://muscle-d6e33.firebaseio.com',
+      // storageBucket: 'muscle-d6e33.appspot.com'
+      apiKey: "AIzaSyD7kJLbvj0McLwRztqNhAXaittAC9tJ9F0",
+      authDomain: "muscle-36f5b.firebaseapp.com",
+      databaseURL: "https://muscle-36f5b.firebaseio.com",
+      projectId: "muscle-36f5b",
+      storageBucket: "muscle-36f5b.appspot.com"
+    },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created

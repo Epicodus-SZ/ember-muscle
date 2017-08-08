@@ -1,0 +1,17 @@
+{ "musclestories": [{
+    "imgurl": "https://i.ytimg.com/vi/JHvg367Fpkk/maxresdefault.jpg",
+    "author": "Somebody",
+    "title": "Whey In On Whatever",
+    "storytext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  }, {
+    "imgurl": "https://s-media-cache-ak0.pinimg.com/736x/3e/05/84/3e0584c1fd364037cb50afe21838a3f3--cardio-workouts-at-home-daily-workouts.jpg",
+    "author": "Somebody",
+    "title": "Friday Workout",
+    "storytext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  }, {
+    "imgurl": "http://sciencedrivennutrition.com/wp-content/uploads/2016/01/muscles-anatomy-back.jpg",
+    "author": "Somebody",
+    "title": "New Muscle Discovered",
+    "storytext": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+  }]
+}
